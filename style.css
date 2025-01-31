@@ -1,0 +1,12 @@
+.admin{
+    overflow: hidden;
+}
+.info img{
+    height: 200px;
+}
+#imageContainer{
+    height: auto;
+}
+.info{
+    display: flex;
+}
